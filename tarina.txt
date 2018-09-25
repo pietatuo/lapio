@@ -1,1 +1,2 @@
-this is a story about a girl who knew how to do most of this. she had been using git for several years now but forgot to take this course during her first year. oops ;P
+this is a story about a girl who knew how to do most of this. she had been using git for several years now but forgot to take this course during her first year. oops! ;P
+
